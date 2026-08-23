@@ -13,4 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
