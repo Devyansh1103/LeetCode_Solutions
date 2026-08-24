@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 ## Trie
 |  |
 | ------- |
@@ -49,4 +50,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
