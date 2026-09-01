@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
