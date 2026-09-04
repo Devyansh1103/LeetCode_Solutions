@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
