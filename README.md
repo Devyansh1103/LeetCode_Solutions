@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0371-sum-of-two-integers](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## String
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
 | ------- |
