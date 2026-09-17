@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0047-permutations-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Recursion
 |  |
