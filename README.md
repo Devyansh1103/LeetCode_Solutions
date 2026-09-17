@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Recursion
 |  |
