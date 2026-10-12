@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1095-find-in-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Recursion
