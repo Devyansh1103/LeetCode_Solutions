@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1095-find-in-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Trie
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1095-find-in-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Recursion
 |  |
 | ------- |
