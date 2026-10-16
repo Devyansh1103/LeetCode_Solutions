@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
