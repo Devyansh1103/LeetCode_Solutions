@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1095-find-in-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1095-find-in-mountain-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1539-kth-missing-positive-number) |
 ## Recursion
 |  |
