@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0441-arranging-coins) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0198-house-robber) |
 ## Stack
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1095-find-in-mountain-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
