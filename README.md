@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0198-house-robber) |
+| [0746-min-cost-climbing-stairs](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
