@@ -1,0 +1,20 @@
+class Solution {
+    public int coinChange(int[] coins, int amount) {
+        if(amount < 1) return 0;
+
+        int mincoin[] = new int[amount + 1];
+
+        for(int i = 1; i <= amount; i++){
+            mincoin[i] = Integer.MAX_VALUE;
+
+            for(int coin : coins){
+                if((coin <= i) && (mincoin[i - coin] != Integer.MAX_VALUE)){
+                    mincoin[i] = Math.min(mincoin[i - coin] + 1, mincoin[i]);
+                }
+            }
+        }
+        if(mincoin[amount] == Integer.MAX_VALUE) return -1;
+        
+        return mincoin[amount];
+    }
+}
