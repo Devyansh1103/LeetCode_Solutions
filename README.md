@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 ## Sorting
 |  |
 | ------- |
