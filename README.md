@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0455-assign-cookies](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0455-assign-cookies](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
 | ------- |
@@ -258,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0322-coin-change) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
