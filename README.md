@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0216-combination-sum-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
