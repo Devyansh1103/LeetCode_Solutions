@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0078-subsets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0198-house-robber) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0079-word-search) |
 ## Newton's Method
