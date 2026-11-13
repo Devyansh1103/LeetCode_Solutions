@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1095-find-in-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0931-minimum-falling-path-sum](https://github.com/Devyansh1103/LeetCode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 ## Newton's Method
 |  |
 | ------- |
